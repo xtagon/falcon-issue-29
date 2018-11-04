@@ -8,7 +8,7 @@ end
 
 gem 'rails', '~> 5.1.6'
 gem 'puma', '~> 3.7'
-gem 'falcon', '0.19.0'
+gem 'falcon', '0.19.2'
 gem 'devise', '4.5.0'
 gem 'pg', '>= 0.18', '< 2.0'
 
